@@ -1,0 +1,544 @@
+sr_no,state,mp_name,constituency,constituency_clean,allocated_amount_inr,is_reserved_sc,is_reserved_st,is_missing_amount,is_invalid_amount,is_duplicate_constituency,is_data_quality_issue
+1,Maharashtra,AASHTIKAR PATIL NAGESH BAPURAO,HINGOLI,HINGOLI,190289442.0,False,False,False,False,False,False
+2,Jammu And Kashmir,ABDUL RASHID SHEIKH,BARAMULLAH,BARAMULLAH,154773472.11,False,False,False,False,False,False
+3,Bihar,ABHAY KUMAR SINHA,AURANGABAD_BR,AURANGABAD,147000000.0,False,False,False,False,False,False
+4,West Bengal,ABHIJIT GANGOPADHYAY,TAMLUK,TAMLUK,147000000.0,False,False,False,False,False,False
+5,West Bengal,Abu Taher Khan,MURSHIDABAD,MURSHIDABAD,147000000.0,False,False,False,False,False,False
+6,West Bengal,ADHIKARI SOUMENDU,KANTHI,KANTHI,147000000.0,False,False,False,False,False,False
+7,Uttar Pradesh,ADITYA YADAV,BADAUN,BADAUN,147000000.0,False,False,False,False,False,False
+8,Kerala,Adv Adoor Prakash,ATTINGAL,ATTINGAL,147000000.0,False,False,False,False,False,False
+9,Kerala,Adv Dean Kuriakose,IDUKKI,IDUKKI,147000000.0,False,False,False,False,False,False
+10,Maharashtra,ADV GOWAAL KAGADA PADAVI,NANDURBAR(ST),NANDURBAR,147816309.11,False,True,False,False,False,False
+11,Kerala,ADV K FRANCIS GEORGE,KOTTAYAM,KOTTAYAM,188722256.11,False,False,False,False,False,False
+12,Uttar Pradesh,AFZAL ANSARI,GHAZIPUR,GHAZIPUR,220500000.0,False,False,False,False,False,False
+13,Jammu And Kashmir,AGA SYED RUHULLAH MEHDI,SRINAGAR,SRINAGAR,147000000.0,False,False,False,False,False,False
+14,Uttarakhand,Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,NAINITAL UDHAM SINGH NAG.,147000000.0,False,False,False,False,False,False
+15,Bihar,Ajay Kumar Mandal,BHAGALPUR,BHAGALPUR,147000000.0,False,False,False,False,False,False
+16,Uttarakhand,Ajay Tamta,ALMORA(SC),ALMORA,147000000.0,True,False,False,False,False,False
+17,Uttar Pradesh,AJENDRA SINGH LODHI,HAMIRPUR_UP,HAMIRPUR,147000000.0,False,False,False,False,False,False
+18,Uttar Pradesh,AKHILESH YADAV,KANNAUJ,KANNAUJ,147000000.0,False,False,False,False,False,False
+19,Uttar Pradesh,AKSHAYA YADAV,FIROZABAD,FIROZABAD,147000000.0,False,False,False,False,False,False
+20,Manipur,ALFRED KANNGAM S ARTHUR,OUTER MANIPUR(ST),OUTER MANIPUR,147000000.0,False,True,False,False,False,False
+21,Bihar,Alok Kumar Suman,GOPALGANJ (SC),GOPALGANJ,147000000.0,True,False,False,False,False,False
+22,Madhya Pradesh,ALOK SHARMA,BHOPAL,BHOPAL,147000000.0,False,False,False,False,False,False
+23,Maharashtra,AMAR SHARADRAO KALE,WARDHA,WARDHA,147000000.0,False,False,False,False,False,False
+24,Assam,AMARSING TISSO,Diphu (ST),Diphu,147000000.0,False,True,False,False,False,False
+25,Andhra Pradesh,AMBICA G LAKSHMINARAYANA VALMIKI,ANANTAPUR,ANANTAPUR,201899064.11,False,False,False,False,False,False
+26,Maharashtra,Amol Ramsing Kolhe,SHIRUR,SHIRUR,147000000.0,False,False,False,False,False,False
+27,Rajasthan,AMRARAM,SIKAR,SIKAR,165691544.11,False,False,False,False,False,False
+28,Punjab,AMRINDER SINGH RAJA WARRING,LUDHIANA,LUDHIANA,147000000.0,False,False,False,False,False,False
+29,Uttar Pradesh,ANAND BHADAURIYA,DHAURAHRA,DHAURAHRA,147000000.0,False,False,False,False,False,False
+30,Uttar Pradesh,ANAND KUMAR,BAHRAICH(SC),BAHRAICH,147000000.0,True,False,False,False,False,False
+31,Odisha,ANANTA NAYAK,KEONJHAR(ST),KEONJHAR,147000000.0,False,True,False,False,False,False
+32,Tamil Nadu,Andimuthu Raja,NILGIRIS(SC),NILGIRIS,147000000.0,True,False,False,False,False,False
+33,Meghalaya,ANDREW J. SYNGKON,SHILLONG,SHILLONG,98000000.0,False,False,False,False,False,False
+34,Manipur,ANGOMCHA BIMOL AKOIJAM,INNER MANIPUR,INNER MANIPUR,147000000.0,False,False,False,False,False,False
+35,Uttarakhand,ANIL BALUNI,GARHWAL,GARHWAL,147000000.0,False,False,False,False,False,False
+36,Maharashtra,ANIL YESHWANT DESAI,MUMBAI SOUTH CENTRAL,MUMBAI SOUTH CENTRAL,147000000.0,False,False,False,False,False,False
+37,Madhya Pradesh,ANITA NAGARSINGH CHOUHAN,RATLAM(ST),RATLAM,147000000.0,False,True,False,False,False,False
+38,Odisha,ANITA SUBHADARSHINI,ASKA,ASKA,147000000.0,False,False,False,False,False,False
+39,Jharkhand,Annpurna Devi,KODARMA,KODARMA,166665931.8,False,False,False,False,False,False
+40,Uttar Pradesh,ANOOP PRADHAN BALMIKI,HATHRAS (SC),HATHRAS,147000000.0,True,False,False,False,False,False
+41,Kerala,Anto Antony,PATHANAMTHITTA,PATHANAMTHITTA,147000000.0,False,False,False,False,False,False
+42,Maharashtra,ANUP SANJAY DHOTRE,AKOLA,AKOLA,147000000.0,False,False,False,False,False,False
+43,Uttar Pradesh,Anurag Sharma,JHANSI,JHANSI,147000000.0,False,False,False,False,False,False
+44,Himachal Pradesh,Anurag Singh Thakur,HAMIRPUR_HP,HAMIRPUR,149570117.11,False,False,False,False,False,False
+45,Andhra Pradesh,Appalanaidu Kalisetti,VIZIANAGARAM,VIZIANAGARAM,147000000.0,False,False,False,False,False,False
+46,Bihar,ARUN BHARTI,JAMUI(SC),JAMUI,194924621.11,True,False,False,False,False,False
+47,Uttar Pradesh,ARUN GOVIL,MEERUT,MEERUT,147000000.0,False,False,False,False,False,False
+48,Tamil Nadu,ARUN NEHRU,PERAMBALUR,PERAMBALUR,147000000.0,False,False,False,False,False,False
+49,Telangana,ARUNA. D. K,MAHABUBNAGAR,MAHABUBNAGAR,147000000.0,False,False,False,False,False,False
+50,West Bengal,ARUP CHAKRABORTY,BANKURA,BANKURA,147000000.0,False,False,False,False,False,False
+51,Telangana,Arvind Dharmapuri,NIZAMABAD,NIZAMABAD,281396355.11,False,False,False,False,False,False
+52,Maharashtra,Arvind Ganpat Sawant,MUMBAI SOUTH,MUMBAI SOUTH,147000000.0,False,False,False,False,False,False
+53,Telangana,Asaduddin Owaisi,HYDERABAD,HYDERABAD,147000000.0,False,False,False,False,False,False
+54,Madhya Pradesh,ASHISH DUBEY,JABALPUR,JABALPUR,147000000.0,False,False,False,False,False,False
+55,Uttar Pradesh,Ashok Kumar Rawat,MISRIKH(SC),MISRIKH,147000000.0,True,False,False,False,False,False
+56,Bihar,Ashok Kumar Yadav,MADHUBANI,MADHUBANI,147000000.0,False,False,False,False,False,False
+57,West Bengal,Asit Kumar Mal,BOLPUR(SC),BOLPUR,275694456.74,True,False,False,False,False,False
+58,Uttar Pradesh,ATUL GARG,GHAZIABAD,GHAZIABAD,155336470.0,False,False,False,False,False,False
+59,Odisha,AVIMANYU SETHI,BHADRAK(SC),BHADRAK,147000000.0,True,False,False,False,False,False
+60,Uttar Pradesh,AWADHESH PRASAD,FAIZABAD,FAIZABAD,147000000.0,False,False,False,False,False,False
+61,West Bengal,AZAD KIRTI JHA,BARDHAMAN-DURGAPUR,BARDHAMAN-DURGAPUR,179658399.98,False,False,False,False,False,False
+62,Andhra Pradesh,B K PARTHASARATHI,HINDUPUR,HINDUPUR,160491894.11,False,False,False,False,False,False
+63,Uttar Pradesh,BABU SINGH KUSHWAHA,JAUNPUR,JAUNPUR,147000000.0,False,False,False,False,False,False
+64,Maharashtra,BACHHAV SHOBHA DINESH,DHULE,DHULE,147000000.0,False,False,False,False,False,False
+65,West Bengal,BAG MITALI,ARAMBAG(SC),ARAMBAG,147000000.0,True,False,False,False,False,False
+66,Odisha,BAIJAYANT PANDA,KENDRAPARA,KENDRAPARA,147000000.0,False,False,False,False,False,False
+67,Maharashtra,BAJRANG MANOHAR SONWANE,BEED,BEED,165899107.19,False,False,False,False,False,False
+68,Odisha,BALABHADRA MAJHI,NABARANGPUR(ST),NABARANGPUR,147413962.11,False,True,False,False,False,False
+69,Andhra Pradesh,Balashowry Vallabbhaneni,MACHILIPATNAM,MACHILIPATNAM,147000000.0,False,False,False,False,False,False
+70,Telangana,BALRAM NAIK PORIKA,MAHABUBABAD,MAHABUBABAD,147000000.0,False,False,False,False,False,False
+71,Maharashtra,BALWANT BASWANT WANKHADE,AMRAVATI(SC),AMRAVATI,198293678.0,True,False,False,False,False,False
+72,Maharashtra,BALYA MAMA SURESH GOPINATH MHATRE,BHIWANDI,BHIWANDI,147000000.0,False,False,False,False,False,False
+73,Delhi,Bansuri Swaraj,NEW DELHI,NEW DELHI,154306950.0,False,False,False,False,False,False
+74,West Bengal,BAPI HALDAR,MATHURAPUR(SC),MATHURAPUR,147000000.0,True,False,False,False,False,False
+75,Karnataka,BASAVARAJ BOMMAI,HAVERI,HAVERI,147000000.0,False,False,False,False,False,False
+76,Andhra Pradesh,BASTIPATI NAGARAJU PANCHALINGALA,KURNOOL,KURNOOL,159998515.11,False,False,False,False,False,False
+77,Rajasthan,Bhagirath Chaudhary,AJMER,AJMER,147000000.0,False,False,False,False,False,False
+78,Rajasthan,BHAJAN LAL JATAV,KARAULI-DHOLPUR(SC),KARAULI-DHOLPUR,147000000.0,True,False,False,False,False,False
+79,Madhya Pradesh,BHARAT SINGH KUSHWAH,GWALIOR,GWALIOR,151455276.04,False,False,False,False,False,False
+80,Gujarat,BHARATBHAI MANUBHAI SUTARIYA,AMRELI,AMRELI,147000000.0,False,False,False,False,False,False
+81,Gujarat,Bharatsinhji Shankarji Dabhi,PATAN,PATAN,147000000.0,False,False,False,False,False,False
+82,Madhya Pradesh,BHARTI PARDHI,BALAGHAT,BALAGHAT,154398389.01,False,False,False,False,False,False
+83,Maharashtra,BHASKAR MURLIDHAR BHAGARE,DINDORI(ST),DINDORI,147000000.0,False,True,False,False,False,False
+84,Maharashtra,BHAUSAHEB RAJARAM WAKCHAURE,SHIRDI(SC),SHIRDI,147000000.0,True,False,False,False,False,False
+85,Chhattisgarh,BHOJRAJ NAG,KANKER(ST),KANKER,164672734.11,False,True,False,False,False,False
+86,Uttar Pradesh,Bhola Singh,BULANDSHAHR(SC),BULANDSHAHR,147000000.0,True,False,False,False,False,False
+87,Maharashtra,BHUMARE SANDIPANRAO ASARAM,AURANGABAD_MH,AURANGABAD,147000000.0,False,False,False,False,False,False
+88,Andhra Pradesh,Bhupathiraju Srinivasa varma,NARASAPURAM,NARASAPURAM,147000000.0,False,False,False,False,False,False
+89,Rajasthan,BHUPENDER YADAV,ALWAR,ALWAR,147000000.0,False,False,False,False,False,False
+90,Odisha,BIBHU PRASAD TARAI,JAGATSINGHPUR(SC),JAGATSINGHPUR,147000000.0,True,False,False,False,False,False
+91,Jharkhand,Bidyut Baran Mahato,JAMSHEDPUR,JAMSHEDPUR,147000000.0,False,False,False,False,False,False
+92,Assam,BIJULI KALITA MEDHI,GUWAHATI,GUWAHATI,147000000.0,False,False,False,False,False,False
+93,Tripura,BIPLAB KUMAR DEB,TRIPURA WEST,TRIPURA WEST,147000000.0,False,False,False,False,False,False
+94,Andaman And Nicobar Islands,BISHNU PADA RAY,ANDAMAN AND NICOBAR ISLANDS,ANDAMAN AND NICOBAR ISLANDS,147000000.0,False,False,False,False,False,False
+95,Rajasthan,BRIJENDRA SINGH OLA,JHUNJHUNU,JHUNJHUNU,147000000.0,False,False,False,False,False,False
+96,Chhattisgarh,BRIJMOHAN AGRAWAL,RAIPUR,RAIPUR,153766451.11,False,False,False,False,False,False
+97,Madhya Pradesh,BUNTY VIVEK SAHU,CHHINDWARA,CHHINDWARA,147000000.0,False,False,False,False,False,False
+98,Gujarat,C R Patil,NAVSARI,NAVSARI,158532494.36,False,False,False,False,False,False
+99,Andhra Pradesh,C.M.RAMESH,ANAKAPALLE,ANAKAPALLE,202531656.11,False,False,False,False,False,False
+100,Karnataka,CAPTAIN BRIJESH CHOWTA,DAKSHINA KANNADA,DAKSHINA KANNADA,147000000.0,False,False,False,False,False,False
+101,Goa,CAPTAIN VIRIATO FERNANDES,SOUTH GOA,SOUTH GOA,147000000.0,False,False,False,False,False,False
+102,Telangana,CHAMALA KIRAN KUMAR REDDY,BHONGIR,BHONGIR,147000000.0,False,False,False,False,False,False
+103,Uttar Pradesh,CHANDAN CHAUHAN,BIJNOR,BIJNOR,147000000.0,False,False,False,False,False,False
+104,Rajasthan,Chandra Prakash Joshi,CHITTORGARH,CHITTORGARH,147000000.0,False,False,False,False,False,False
+105,Uttar Pradesh,CHANDRA SHEKHAR,NAGINA(SC),NAGINA,147000000.0,True,False,False,False,False,False
+106,Gujarat,CHANDUBHAI CHHAGANBHAI SHIHORA,SURENDRANAGAR,SURENDRANAGAR,147000000.0,False,False,False,False,False,False
+107,Punjab,CHARANJIT SINGH CHANNI,JALANDHAR(SC),JALANDHAR,147000000.0,True,False,False,False,False,False
+108,Maharashtra,CHAVAN VASANTRAO BALWANTRAO,NANDED,NANDED,0.0,False,False,True,False,True,True
+109,Uttar Pradesh,CHHATRA PAL SINGH GANGWAR,BAREILLY,BAREILLY,147000000.0,False,False,False,False,False,False
+110,Maharashtra,CHHATRAPATI SHAHU SHAHAJI,KOLHAPUR,KOLHAPUR,147000000.0,False,False,False,False,False,False
+111,Uttar Pradesh,CHHOTELAL,ROBERTSGANJ(SC),ROBERTSGANJ,147000000.0,True,False,False,False,False,False
+112,Chhattisgarh,CHINTAMANI MAHARAJ,SARGUJA(ST),SARGUJA,147000000.0,False,True,False,False,False,False
+113,Bihar,CHIRAG PASWAN,HAJIPUR(SC),HAJIPUR,147000000.0,True,False,False,False,False,False
+114,Tamil Nadu,CN Annadurai,TIRUVANNAMALAI,TIRUVANNAMALAI,148579509.11,False,False,False,False,False,False
+115,Tamil Nadu,D M Kathir Anand,VELLORE,VELLORE,160196941.11,False,False,False,False,False,False
+116,Tamil Nadu,D Ravikumar,VILUPPURAM(SC),VILUPPURAM,197598306.11,True,False,False,False,False,False
+117,Andhra Pradesh,Daggubati Purandeshwari,RAJAHMUNDRY,RAJAHMUNDRY,147000000.0,False,False,False,False,False,False
+118,Andhra Pradesh,DAGGUMALLA PRASADA RAO,CHITTOOR,CHITTOOR,147000000.0,False,False,False,False,False,False
+119,Rajasthan,DAMODAR AGARWAL,BHILWARA,BHILWARA,147000000.0,False,False,False,False,False,False
+120,Uttar Pradesh,DAROGA PRASAD SAROJ,LALGANJ (SC),LALGANJ,147000000.0,True,False,False,False,False,False
+121,Madhya Pradesh,DARSHAN SINGH CHOUDHARY,HOSHANGABAD,HOSHANGABAD,147000000.0,False,False,False,False,False,False
+122,Haryana,DEEPENDER SINGH HOODA,ROHTAK,ROHTAK,147000000.0,False,False,False,False,False,False
+123,Uttar Pradesh,Devendra Alias Bhole Singh,AKBARPUR,AKBARPUR,147000000.0,False,False,False,False,False,False
+124,Bihar,DEVESH CHANDRA THAKUR,SITAMARHI,SITAMARHI,163809205.11,False,False,False,False,False,False
+125,Uttar Pradesh,DEVESH SHAKYA,ETAH,ETAH,147000000.0,False,False,False,False,False,False
+126,Gujarat,Devusinh Jesingbhai Chauhan,KHEDA,KHEDA,147000000.0,False,False,False,False,False,False
+127,Maharashtra,Dhairyasheel Sambhajirao Mane,HATKANANGLE,HATKANANGLE,147000000.0,False,False,False,False,False,False
+128,Maharashtra,DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU,CHANDRAPUR,CHANDRAPUR,147000000.0,False,False,False,False,False,False
+129,Odisha,DHARMENDRA PRADHAN,SAMBALPUR,SAMBALPUR,147000000.0,False,False,False,False,False,False
+130,Uttar Pradesh,DHARMENDRA YADAV,AZAMGARH,AZAMGARH,147000000.0,False,False,False,False,False,False
+131,Gujarat,DHAVAL LAXMANBHAI PATEL,VALSAD(ST),VALSAD,147000000.0,False,True,False,False,False,False
+132,Bihar,Dileshwar Kamait,SUPAUL,SUPAUL,150450930.89,False,False,False,False,False,False
+133,Assam,Dilip Saikia,Darrang-Udalguri,Darrang-Udalguri,147000000.0,False,False,False,False,False,False
+134,Bihar,Dinesh Chandra Yadav,MADHEPURA,MADHEPURA,150070866.11,False,False,False,False,False,False
+135,Gujarat,DINESHBHAI MAKWANA,AHMEDABAD WEST(SC),AHMEDABAD WEST,160434965.11,True,False,False,False,False,False
+136,Andhra Pradesh,DR BYREDDY SHABARI,NANDYAL,NANDYAL,150675889.11,False,False,False,False,False,False
+137,Karnataka,DR C N MANJUNATH,BANGALORE RURAL,BANGALORE RURAL,147000000.0,False,False,False,False,False,False
+138,Andhra Pradesh,Dr Chandra Sekhar Pemmasani,GUNTUR,GUNTUR,159774113.11,False,False,False,False,False,False
+139,Punjab,DR DHARAMVIRA GANDHI,PATIALA,PATIALA,147000000.0,False,False,False,False,False,False
+140,West Bengal,Dr Jayanta Kumar Roy,JALPAIGURI(SC),JALPAIGURI,147000000.0,True,False,False,False,False,False
+141,Maharashtra,DR KALGE SHIVAJI BANDAPPA,LATUR(SC),LATUR,147000000.0,True,False,False,False,False,False
+142,Bihar,Dr Mohammad Jawed,KISHANGANJ,KISHANGANJ,148669229.11,False,False,False,False,False,False
+143,Uttar Pradesh,DR RAJKUMAR SANGWAN,BAGHPAT,BAGHPAT,147000000.0,False,False,False,False,False,False
+144,Tamil Nadu,DR RANI SRI KUMAR,TENKASI(SC),TENKASI,153060922.82,True,False,False,False,False,False
+145,Kerala,Dr Shashi Tharoor,THIRUVANANTHAPURAM,THIRUVANANTHAPURAM,147000000.0,False,False,False,False,False,False
+146,West Bengal,Dr Sukanta Majumdar,BALURGHAT,BALURGHAT,157085364.9,False,False,False,False,False,False
+147,Gujarat,DR. HEMANG JOSHI,VADODARA,VADODARA,147000000.0,False,False,False,False,False,False
+148,Maharashtra,DR. HEMANT VISHNU SAVARA,PALGHAR(ST),PALGHAR,147000000.0,False,True,False,False,False,False
+149,Maharashtra,DR. KIRSAN NAMDEO,GADCHIROLI-CHIMUR(ST),GADCHIROLI-CHIMUR,147000000.0,False,True,False,False,False,False
+150,Madhya Pradesh,DR. LATA WANKHEDE,SAGAR,SAGAR,147000000.0,False,False,False,False,False,False
+151,Kerala,DR. M.P ABDUSSAMAD SAMADANI,PONNANI,PONNANI,170434031.11,False,False,False,False,False,False
+152,Gujarat,DR. MANSUKH MANDAVIYA,PORBANDAR,PORBANDAR,147000000.0,False,False,False,False,False,False
+153,Karnataka,DR. PRABHA MALLIKARJUN,DAVANAGERE,DAVANAGERE,150232324.0,False,False,False,False,False,False
+154,Odisha,DR. PRADEEP KUMAR PANIGRAHY,BERHAMPUR,BERHAMPUR,147000000.0,False,False,False,False,False,False
+155,Maharashtra,DR. PRASHANT YADAORAO PADOLE,BHANDARA-GONDIYA,BHANDARA-GONDIYA,159680283.39,False,False,False,False,False,False
+156,Punjab,DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),HOSHIARPUR,147000000.0,True,False,False,False,False,False
+157,Madhya Pradesh,DR. RAJESH MISHRA,SIDHI,SIDHI,262724510.35,False,False,False,False,False,False
+158,Uttar Pradesh,DR. S P SINGH,PRATAPGARH,PRATAPGARH,147000000.0,False,False,False,False,False,False
+159,West Bengal,DR. SHARMILA SARKAR,BARDHAMAN PURBA(SC),BARDHAMAN PURBA,147000000.0,True,False,False,False,False,False
+160,Karnataka,DR.K.SUDHAKAR,CHIKBALLAPUR,CHIKBALLAPUR,147000000.0,False,False,False,False,False,False
+161,Telangana,DR.MALLU RAVI,NAGARKURNOOL(SC),NAGARKURNOOL,147000000.0,True,False,False,False,False,False
+162,Jharkhand,DULU MAHATO,DHANBAD,DHANBAD,147000000.0,False,False,False,False,False,False
+163,Tamil Nadu,DURAI VAIKO,TIRUCHIRAPPALLI,TIRUCHIRAPPALLI,147000000.0,False,False,False,False,False,False
+164,Madhya Pradesh,Durga Das Uikey,BETUL(ST),BETUL,151569502.91,False,True,False,False,False,False
+165,Rajasthan,Dushyant Singh,JHALAWAR-BARAN,JHALAWAR-BARAN,147000000.0,False,False,False,False,False,False
+166,Karnataka,E. TUKARAM,BELLARY(ST),BELLARY,147000000.0,False,True,False,False,False,False
+167,Kerala,E.T. MOHAMMED BASHEER,MALAPPURAM,MALAPPURAM,163895872.11,False,False,False,False,False,False
+168,Telangana,EATALA RAJENDER,MALKAJGIRI,MALKAJGIRI,327477390.86,False,False,False,False,False,False
+169,Tamil Nadu,ESWARASAMY K,POLLACHI,POLLACHI,162315106.11,False,False,False,False,False,False
+170,Madhya Pradesh,Faggan Singh Kulaste,MANDLA(ST),MANDLA,151861648.41,False,True,False,False,False,False
+171,Karnataka,G. KUMAR NAIK,RAICHUR(ST),RAICHUR,147000000.0,False,True,False,False,False,False
+172,Maharashtra,GAIKWAD VARSHA EKNATH,MUMBAI NORTH-CENTRAL,MUMBAI NORTH-CENTRAL,147000000.0,False,False,False,False,False,False
+173,Madhya Pradesh,Gajendra Singh Patel,KHARGONE(ST),KHARGONE,147000000.0,False,True,False,False,False,False
+174,Rajasthan,Gajendra Singh Shekhawat,JODHPUR,JODHPUR,147000000.0,False,False,False,False,False,False
+175,Tamil Nadu,GANAPATHY RAJKUMAR P,COIMBATORE,COIMBATORE,147370490.11,False,False,False,False,False,False
+176,Tamil Nadu,Ganesan Selvam,KANCHEEPURAM(SC),KANCHEEPURAM,186508749.11,True,False,False,False,False,False
+177,Madhya Pradesh,Ganesh Singh,SATNA,SATNA,147000000.0,False,False,False,False,False,False
+178,Assam,GAURAV GOGOI,JORHAT,JORHAT,147000000.0,False,False,False,False,False,False
+179,Gujarat,GENIBEN NAGAJI THAKOR,BANASKANTHA,BANASKANTHA,147000000.0,False,False,False,False,False,False
+180,Bihar,Giridhari Yadav,BANKA,BANKA,147000000.0,False,False,False,False,False,False
+181,Bihar,Giriraj Singh,BEGUSARAI,BEGUSARAI,147000000.0,False,False,False,False,False,False
+182,Andhra Pradesh,GM Harish Balayogi,AMALAPURAM(SC),AMALAPURAM,147000000.0,True,False,False,False,False,False
+183,Telangana,GODAM NAGESH,ADILABAD(ST),ADILABAD,147000000.0,False,True,False,False,False,False
+184,Tamil Nadu,GOPINATH K,KRISHNAGIRI,KRISHNAGIRI,147000000.0,False,False,False,False,False,False
+185,Karnataka,GOVIND MAKTHAPPA KARJOL,CHITRADURGA(SC),CHITRADURGA,147000000.0,True,False,False,False,False,False
+186,Andhra Pradesh,Gumma Thanuja Rani,ARAKU(ST),ARAKU,149458905.11,False,True,False,False,False,False
+187,Punjab,GURMEET SINGH MEET HAYER,SANGRUR,SANGRUR,147000000.0,False,False,False,False,False,False
+188,Madhya Pradesh,Gyaneshwar Patil,KHANDWA,KHANDWA,155690684.77,False,False,False,False,False,False
+189,Karnataka,H.D. KUMARASWAMY,MANDYA,MANDYA,147000000.0,False,False,False,False,False,False
+190,Uttar Pradesh,HARENDRA SINGH MALIK,MUZAFFARNAGAR,MUZAFFARNAGAR,147000000.0,False,False,False,False,False,False
+191,Gujarat,HARIBHAI PATEL,MAHESANA,MAHESANA,147000000.0,False,False,False,False,False,False
+192,Rajasthan,HARISH CHANDRA MEENA,TONK-SAWAI MADHOPUR,TONK-SAWAI MADHOPUR,147000000.0,False,False,False,False,False,False
+193,Delhi,Harsh Malhotra,EAST DELHI,EAST DELHI,147134131.0,False,False,False,False,False,False
+194,Gujarat,Hasmukh Bhai Soma Bhai Patel,AHMEDABAD EAST,AHMEDABAD EAST,147000000.0,False,False,False,False,False,False
+195,Uttar Pradesh,IMRAN MASOOD,SAHARANPUR,SAHARANPUR,147000000.0,False,False,False,False,False,False
+196,Sikkim,Indra Hang Subba,SIKKIM,SIKKIM,152003923.11,False,False,False,False,False,False
+197,Uttar Pradesh,IQRA CHOUDHARY,KAIRANA,KAIRANA,147000000.0,False,False,False,False,False,False
+198,West Bengal,ISHA KHAN CHOUDHURY,MALDAHA DAKSHIN,MALDAHA DAKSHIN,147000000.0,False,False,False,False,False,False
+199,West Bengal,JAGADISH CHANDRA BARMA BASUNIA,COOCHBEHAR(SC),COOCHBEHAR,168604641.11,True,False,False,False,False,False
+200,Karnataka,JAGADISH SHETTAR,BELGAUM,BELGAUM,147000000.0,False,False,False,False,False,False
+201,West Bengal,Jagannath Sarkar,RANAGHAT(SC),RANAGHAT,147000000.0,True,False,False,False,False,False
+202,Uttar Pradesh,Jagdambika Pal,DOMARIYAGANJ,DOMARIYAGANJ,160643957.11,False,False,False,False,False,False
+203,Haryana,JAI PARKASH,HISAR,HISAR,147000000.0,False,False,False,False,False,False
+204,Uttar Pradesh,Jai Prakash,HARDOI (SC),HARDOI,147000000.0,True,False,False,False,False,False
+205,Madhya Pradesh,Janardan Mishra,REWA,REWA,147000000.0,False,False,False,False,False,False
+206,Gujarat,JASHUBHAI BHILUBHAI RATHVA,CHHOTA UDAIPUR(ST),CHHOTA UDAIPUR,147000000.0,False,True,False,False,False,False
+207,Gujarat,Jaswantsinh Sumanbhai Bhabhor,DAHOD(ST),DAHOD,147000000.0,False,True,False,False,False,False
+208,Bihar,JITAN RAM MANJHI,GAYA (SC),GAYA,147000000.0,True,False,False,False,False,False
+209,Uttar Pradesh,JITENDRA KUMAR DOHARE,ETAWAH(SC),ETAWAH,188747306.26,True,False,False,False,False,False
+210,Jammu And Kashmir,Jitendra Singh,UDHAMPUR,UDHAMPUR,147000000.0,False,False,False,False,False,False
+211,Uttar Pradesh,JITIN PRASADA,PILIBHIT,PILIBHIT,147000000.0,False,False,False,False,False,False
+212,Jharkhand,JOBA MAJHI,SINGHBHUM(ST),SINGHBHUM,147000000.0,False,True,False,False,False,False
+213,Assam,JOYANTA BASUMATARY,KOKRAJHAR (ST),KOKRAJHAR,147000000.0,False,True,False,False,False,False
+214,West Bengal,JUNE MALIAH,MEDINIPUR,MEDINIPUR,147000000.0,False,False,False,False,False,False
+215,Madhya Pradesh,JYOTIRADITYA M. SCINDIA,GUNA,GUNA,147000000.0,False,False,False,False,False,False
+216,Chhattisgarh,Jyotsna Charandas Mahant,KORBA,KORBA,155153738.11,False,False,False,False,False,False
+217,Tamil Nadu,K E PRAKASH,ERODE,ERODE,147000000.0,False,False,False,False,False,False
+218,Kerala,K RADHAKRISHNAN,ALATHUR(SC),ALATHUR,147000000.0,True,False,False,False,False,False
+219,Tamil Nadu,K Subbarayan,TIRUPPUR,TIRUPPUR,147000000.0,False,False,False,False,False,False
+220,Kerala,K. C VENUGOPAL,ALAPPUZHA,ALAPPUZHA,147000000.0,False,False,False,False,False,False
+221,Karnataka,K. RAJASHEKAR BASAVARAJ HITNAL,KOPPAL,KOPPAL,147000000.0,False,False,False,False,False,False
+222,Telangana,KADIYAM KAVYA,WARANGEL(SC),WARANGEL,147000000.0,True,False,False,False,False,False
+223,West Bengal,Kakoli Ghosh Dastidar,BARASAT,BARASAT,147000000.0,False,False,False,False,False,False
+224,The Dadra And Nagar Haveli And Daman And Diu,Kalaben Mohanbhai Delkar,DADRA & NAGAR HAVELI (ST),DADRA & NAGAR HAVELI,269500000.0,False,True,False,False,False,False
+225,Tamil Nadu,Kalanidhi Veeraswamy,CHENNAI NORTH,CHENNAI NORTH,171500000.0,False,False,False,False,False,False
+226,Jharkhand,KALI CHARAN MUNDA,KHUNTI(ST),KHUNTI,147000000.0,False,True,False,False,False,False
+227,Jharkhand,KALI CHARAN SINGH,CHATRA,CHATRA,147000000.0,False,False,False,False,False,False
+228,West Bengal,KALIPADA SAREN,JHARGRAM(ST),JHARGRAM,147000000.0,False,True,False,False,False,False
+229,West Bengal,Kalyan Banerjee,SREERAMPUR,SREERAMPUR,147000000.0,False,False,False,False,False,False
+230,Maharashtra,KALYAN VAIJINATHRAO KALE,JALNA,JALNA,147000000.0,False,False,False,False,False,False
+231,Assam,KAMAKHYA PRASAD TASA,Kaziranga,Kaziranga,147000000.0,False,False,False,False,False,False
+232,Delhi,Kamaljeet Sehrawat,WEST DELHI,WEST DELHI,147000000.0,False,False,False,False,False,False
+233,Chhattisgarh,KAMLESH JANGDE,JANJGIR CHAMPA(SC),JANJGIR CHAMPA,150384382.11,True,False,False,False,False,False
+234,Uttar Pradesh,Kamlesh Paswan,BANSGAON(SC),BANSGAON,147000000.0,True,False,False,False,False,False
+235,Himachal Pradesh,Kangana Ranaut,MANDI,MANDI,147000000.0,False,False,False,False,False,False
+236,Tamil Nadu,Kani K Navas,RAMANATHAPURAM,RAMANATHAPURAM,147000000.0,False,False,False,False,False,False
+237,Tamil Nadu,Kanimozhi Karunanidhi,THOOTHUKKUDI,THOOTHUKKUDI,147000000.0,False,False,False,False,False,False
+238,Uttar Pradesh,KANWAR SINGH TANWAR,AMROHA,AMROHA,147000000.0,False,False,False,False,False,False
+239,Uttar Pradesh,KARAN BHUSHAN SINGH,KAISERGANJ,KAISERGANJ,147000000.0,False,False,False,False,False,False
+240,West Bengal,KARTICK CHANDRA PAUL,RAIGANJ,RAIGANJ,202677986.56,False,False,False,False,False,False
+241,Bihar,Kaushalendra Kumar,NALANDA,NALANDA,147000000.0,False,False,False,False,False,False
+242,West Bengal,Khagen Murmu,MALDAHA UTTAR,MALDAHA UTTAR,147000000.0,False,False,False,False,False,False
+243,West Bengal,Khalilur Rahaman,JANGIPUR,JANGIPUR,147000000.0,False,False,False,False,False,False
+244,Andhra Pradesh,Kinjarapu Ram Mohan Naidu,SRIKAKULAM,SRIKAKULAM,171200630.11,False,False,False,False,False,False
+245,Arunachal Pradesh,Kiren Rijiju,ARUNACHAL WEST,ARUNACHAL WEST,147000000.0,False,False,False,False,False,False
+246,Uttar Pradesh,Kirti Vardhan Singh,GONDA,GONDA,147000000.0,False,False,False,False,False,False
+247,Telangana,Kishan Reddy Gangapuram,SECUNDERABAD,SECUNDERABAD,147000000.0,False,False,False,False,False,False
+248,Uttar Pradesh,KISHORI LAL,AMETHI,AMETHI,171500000.0,False,False,False,False,False,False
+249,Telangana,KONDA VISHWESHWAR REDDY,CHELVELLA,CHELVELLA,233721420.96,False,False,False,False,False,False
+250,Karnataka,KOTA SRINIVAS POOJARY,UDUPI CHIKMAGALUR,UDUPI CHIKMAGALUR,147000000.0,False,False,False,False,False,False
+251,Assam,Kripanath Mallah,KARIMGANJ (SC),KARIMGANJ,147000000.0,True,False,False,False,False,False
+252,Haryana,Krishan Pal Gurjar,FARIDABAD,FARIDABAD,147000000.0,False,False,False,False,False,False
+253,Uttar Pradesh,KRISHNA DEVI SHIVSHANKER PATEL,BANDA,BANDA,147000000.0,False,False,False,False,False,False
+254,Andhra Pradesh,Krishna Prasad Tenneti,BAPATLA,BAPATLA,167796849.11,False,False,False,False,False,False
+255,Tripura,KRITI DEVI DEBBARMAN,TRIPURA EAST(ST),TRIPURA EAST,147000000.0,False,True,False,False,False,False
+256,Rajasthan,KULDEEP INDORA,GANGANAGAR(SC),GANGANAGAR,147000000.0,True,False,False,False,False,False
+257,Telangana,KUNDURU RAGHUVEER,NALGONDA,NALGONDA,162952022.0,False,False,False,False,False,False
+258,Uttar Pradesh,LALJI VERMA,AMBEDKAR NAGAR,AMBEDKAR NAGAR,147000000.0,False,False,False,False,False,False
+259,Andhra Pradesh,Lavu Sri Krishna Devarayalu,NARASARAOPET,NARASARAOPET,174009663.11,False,False,False,False,False,False
+260,Uttar Pradesh,LAXMIKANT PAPPU NISHAD,SANT KABIR NAGAR,SANT KABIR NAGAR,147000000.0,False,False,False,False,False,False
+261,Bihar,LOVELY ANAND,SHEOHAR,SHEOHAR,147000000.0,False,False,False,False,False,False
+262,Rajasthan,LUMBARAM,JALORE,JALORE,147000000.0,False,False,False,False,False,False
+263,Karnataka,M. MALLESH BABU,KOLAR(SC),KOLAR,147065957.11,True,False,False,False,False,False
+264,Tamil Nadu,M.K. VISHNUPRASAD,CUDDALORE,CUDDALORE,147000000.0,False,False,False,False,False,False
+265,Andhra Pradesh,Maddila Gurumoorthy,TIRUPATI(SC),TIRUPATI,180399007.0,True,False,False,False,False,False
+266,Telangana,MADHAVANENI RAGHUNANDAN RAO,MEDAK,MEDAK,147000000.0,False,False,False,False,False,False
+267,Andhra Pradesh,Magunta Sreenivasulu Reddy,ONGOLE,ONGOLE,147000000.0,False,False,False,False,False,False
+268,Madhya Pradesh,Mahendra Singh Solanky,DEWAS(SC),DEWAS,147000000.0,True,False,False,False,False,False
+269,Chhattisgarh,MAHESH KASHYAP,BASTAR(ST),BASTAR,147000000.0,False,True,False,False,False,False
+270,Uttar Pradesh,Mahesh Sharma,GAUTAM BUDDHA NAGAR,GAUTAM BUDDHA NAGAR,148816284.11,False,False,False,False,False,False
+271,Rajasthan,MAHIMA KUMARI MEWAR,RAJSAMAND,RAJSAMAND,183892143.0,False,False,False,False,False,False
+272,Uttarakhand,Mala Rajya Laxmi Shah,TEHRI GARHWAL,TEHRI GARHWAL,147000000.0,False,False,False,False,False,False
+273,West Bengal,Mala Roy,KOLKATA DAKSHIN,KOLKATA DAKSHIN,147000000.0,False,False,False,False,False,False
+274,Tamil Nadu,MALAIYARASAN D,KALLAKURICHI,KALLAKURICHI,201599593.0,False,False,False,False,False,False
+275,Odisha,MALVIKA DEVI,KALAHANDI,KALAHANDI,147000000.0,False,False,False,False,False,False
+276,Punjab,MALVINDER SINGH KANG,ANANDPUR SAHIB,ANANDPUR SAHIB,147000000.0,False,False,False,False,False,False
+277,Tamil Nadu,MANI. A.,DHARAMAPURI,DHARAMAPURI,164515071.11,False,False,False,False,False,False
+278,Tamil Nadu,Manickam Tagore B,VIRUDHUNAGAR,VIRUDHUNAGAR,147000000.0,False,False,False,False,False,False
+279,Jharkhand,MANISH JAISWAL,HAZARIBAGH,HAZARIBAGH,147000000.0,False,False,False,False,False,False
+280,Chandigarh,MANISH TEWARI,CHANDIGARH,CHANDIGARH,178351443.75,False,False,False,False,False,False
+281,Rajasthan,MANJU SHARMA,JAIPUR,JAIPUR,167082901.11,False,False,False,False,False,False
+282,Rajasthan,MANNA LAL RAWAT,UDAIPUR(ST),UDAIPUR,147000000.0,False,True,False,False,False,False
+283,Haryana,MANOHAR LAL,KARNAL,KARNAL,147000000.0,False,False,False,False,False,False
+284,Bihar,MANOJ KUMAR,SASARAM(SC),SASARAM,147000000.0,True,False,False,False,False,False
+285,West Bengal,MANOJ TIGGA,ALIPURDUARS(ST),ALIPURDUARS,147000000.0,False,True,False,False,False,False
+286,Delhi,Manoj Tiwari,NORTH EAST DELHI,NORTH EAST DELHI,225843858.0,False,False,False,False,False,False
+287,Gujarat,Mansukhbhai Dhanjibhai Vasava,BHARUCH,BHARUCH,147000000.0,False,False,False,False,False,False
+288,Jammu And Kashmir,MIAN ALTAF AHMAD,ANANTNAG,ANANTNAG,147000000.0,False,False,False,False,False,False
+289,Andhra Pradesh,Midhun Reddy,RAJAMPET,RAJAMPET,178951477.11,False,False,False,False,False,False
+290,Bihar,MISHA BHARTI,PATALIPUTRA,PATALIPUTRA,147000000.0,False,False,False,False,False,False
+291,Gujarat,Mitesh Rameshbhai Bakabhai Patel,ANAND,ANAND,147000000.0,False,False,False,False,False,False
+292,Ladakh,Mohamed Haneefa,LADAKH,LADAKH,161114542.0,False,False,False,False,False,False
+293,Uttar Pradesh,MOHIBBULLAH,RAMPUR,RAMPUR,147000000.0,False,False,False,False,False,False
+294,Maharashtra,MOHITE PATIL DHAIRYASHEEL RAJSINH,MADHA,MADHA,195613601.7,False,False,False,False,False,False
+295,Bihar,Mr Gopal Jee Thakur,DARBHANGA,DARBHANGA,147000000.0,False,False,False,False,False,False
+296,West Bengal,Ms Mahua Moitra,KRISHNANAGAR,KRISHNANAGAR,159865046.0,False,False,False,False,False,False
+297,Lakshadweep,MUHAMMED HAMDULLAH SAYEED,LAKSHADWEEP(ST),LAKSHADWEEP,153942460.41,False,True,False,False,False,False
+298,Uttar Pradesh,Mukesh Rajput,FARRUKHABAD,FARRUKHABAD,147000000.0,False,False,False,False,False,False
+299,Gujarat,MUKESHKUMAR CHANDRAKAANT DALAL,SURAT,SURAT,147000000.0,False,False,False,False,False,False
+300,Rajasthan,MURARI LAL MEENA,DAUSA(ST),DAUSA,147000000.0,False,True,False,False,False,False
+301,Tamil Nadu,MURASOLI S,THANJAVUR,THANJAVUR,147000000.0,False,False,False,False,False,False
+302,Maharashtra,MURLIDHAR MOHOL,PUNE,PUNE,147000000.0,False,False,False,False,False,False
+303,Odisha,NABA CHARAN MAJHI,MAYURBHANJ (ST),MAYURBHANJ,147563957.11,False,True,False,False,False,False
+304,Jharkhand,NALIN SOREN,DUMKA(ST),DUMKA,147364097.11,False,True,False,False,False,False
+305,Uttar Pradesh,NARAYAN DAS AHIRWAR,JALAUN(SC),JALAUN,147000000.0,True,False,False,False,False,False
+306,Maharashtra,NARAYAN TATU RANE,RATNAGIRI-SINDHUDURG,RATNAGIRI-SINDHUDURG,147000000.0,False,False,False,False,False,False
+307,Uttar Pradesh,NARESH CHANDRA UTTAM PATEL,FATEHPUR,FATEHPUR,147000000.0,False,False,False,False,False,False
+308,Maharashtra,NARESH GANPAT MHASKE,THANE,THANE,147000000.0,False,False,False,False,False,False
+309,Haryana,NAVEEN JINDAL,KURUKSHETRA,KURUKSHETRA,147000000.0,False,False,False,False,False,False
+310,Uttar Pradesh,NEERAJ MAURYA,AONLA,AONLA,147000000.0,False,False,False,False,False,False
+311,Maharashtra,NILESH DNYANDEV LANKE,AHMEDNAGAR,AHMEDNAGAR,147000000.0,False,False,False,False,False,False
+312,Gujarat,NIMUBEN JAYANTIBHAI BAMBHANIYA,BHAVNAGAR,BHAVNAGAR,147000000.0,False,False,False,False,False,False
+313,Jharkhand,Nishikant Dubey,GODDA,GODDA,147000000.0,False,False,False,False,False,False
+314,Maharashtra,Nitin Jairam Gadkari,NAGPUR,NAGPUR,168195086.11,False,False,False,False,False,False
+315,Bihar,Nityanand Rai,UJJARPUR,UJJARPUR,147000000.0,False,False,False,False,False,False
+316,Rajasthan,Om Birla,KOTA,KOTA,163906956.6,False,False,False,False,False,False
+317,Maharashtra,Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,OSMANABAD,OSMANABAD,184758519.11,False,False,False,False,False,False
+318,Karnataka,P C Mohan,BANGALORE CENTRAL,BANGALORE CENTRAL,159995711.11,False,False,False,False,False,False
+319,Uttar Pradesh,Pankaj Chowdhary,MAHARAJGANJ_UP,MAHARAJGANJ,147000000.0,False,False,False,False,False,False
+320,Assam,PARIMAL SUKLABAIDYA,SILCHAR,SILCHAR,148300157.11,False,False,False,False,False,False
+321,Gujarat,PARSHOTTAMBHAI RUPALA,RAJKOT,RAJKOT,147000000.0,False,False,False,False,False,False
+322,West Bengal,PARTHA BHOWMICK,BARRACKPUR,BARRACKPUR,147000000.0,False,False,False,False,False,False
+323,Karnataka,Parvatagouda Chandanagouda Gaddigoudar,BAGALKOT,BAGALKOT,167541747.11,False,False,False,False,False,False
+324,The Dadra And Nagar Haveli And Daman And Diu,PATEL UMESHBHAI BABUBHAI,DAMAN and DIU,DAMAN and DIU,245063957.0,False,False,False,False,False,False
+325,West Bengal,PATHAN YUSUF,BAHARAMPUR,BAHARAMPUR,147000000.0,False,False,False,False,False,False
+326,Assam,PHANI BHUSAN CHOUDHURY,BARPETA,BARPETA,147000000.0,False,False,False,False,False,False
+327,Maharashtra,Piyush Vedprakash Goyal,MUMBAI NORTH,MUMBAI NORTH,147000000.0,False,False,False,False,False,False
+328,Andhra Pradesh,PRABHAKAR REDDY VEMIREDDY,NELLORE(SC),NELLORE,147000000.0,True,False,False,False,False,False
+329,Gujarat,Prabhubhai Nagarbhai Vasava,BARDOLI(ST),BARDOLI,147000000.0,False,True,False,False,False,False
+330,Assam,Pradan Baruah,LAKHIMPUR,LAKHIMPUR,147000000.0,False,False,False,False,False,False
+331,Bihar,Pradeep Kumar Singh,ARARIA,ARARIA,147000000.0,False,False,False,False,False,False
+332,Odisha,PRADEEP PUROHIT,BARGARH,BARGARH,147000000.0,False,False,False,False,False,False
+333,Assam,Pradyut Bordoloi,NOWGONG,NOWGONG,98000000.0,False,False,False,False,False,False
+334,Karnataka,Pralhad Venkatesh Joshi,DHARWAD,DHARWAD,147000000.0,False,False,False,False,False,False
+335,Maharashtra,PRANITI SUSHILKUMAR SHINDE,SOLAPUR(SC),SOLAPUR,147000000.0,True,False,False,False,False,False
+336,West Bengal,Prasun Banerjee,HOWRAH,HOWRAH,147000000.0,False,False,False,False,False,False
+337,Odisha,Pratap Chandra Sarangi,BALASORE,BALASORE,147064254.11,False,False,False,False,False,False
+338,Maharashtra,Prataprao Jadhav,BULDHANA,BULDHANA,147000000.0,False,False,False,False,False,False
+339,West Bengal,Pratima Mondal,JOYNAGAR(SC),JOYNAGAR,147000000.0,True,False,False,False,False,False
+340,Delhi,Praveen Khandelwal,CHANDINI CHOWK,CHANDINI CHOWK,147470276.0,False,False,False,False,False,False
+341,Uttar Pradesh,PRAVEEN PATEL,PHULPUR,PHULPUR,151559884.09,False,False,False,False,False,False
+342,Uttar Pradesh,PRIYA SAROJ,MACHHLISHAHR(SC),MACHHLISHAHR,147000000.0,True,False,False,False,False,False
+343,Kerala,Priyanka Gandhi Vadra,WAYANAD,WAYANAD,122500000.0,False,False,False,False,False,False
+344,Karnataka,PRIYANKA SATISH JARKIHOLI,CHIKKODI,CHIKKODI,147000000.0,False,False,False,False,False,False
+345,West Bengal,Prof Sougata Ray,DUM DUM,DUM DUM,147000000.0,False,False,False,False,False,False
+346,Uttar Pradesh,Prof SP Singh Baghel,AGRA(SC),AGRA,147000000.0,True,False,False,False,False,False
+347,Uttar Pradesh,PUSHPENDRA SAROJ,KAUSHAMBI(SC),KAUSHAMBI,147000000.0,True,False,False,False,False,False
+348,Andhra Pradesh,Putta Mahesh Kumar,ELURU,ELURU,147000000.0,False,False,False,False,False,False
+349,Uttar Pradesh,R.K. CHAUDHARY,MOHANLALGANJ(SC),MOHANLALGANJ,147000000.0,True,False,False,False,False,False
+350,Odisha,RABINDRA NARAYAN BEHERA,JAJPUR(SC),JAJPUR,147064617.11,True,False,False,False,False,False
+351,West Bengal,RACHNA BANERJEE,HOOGHLY,HOOGHLY,147000000.0,False,False,False,False,False,False
+352,Bihar,Radha Mohan Singh,PURVI CHAMPARAN,PURVI CHAMPARAN,147000000.0,False,False,False,False,False,False
+353,Karnataka,RADHAKRISHNA,GULBARGA(SC),GULBARGA,147000000.0,True,False,False,False,False,False
+354,Chhattisgarh,RADHE SHYAM RATHIYA,RAIGARH(ST),RAIGARH,159706972.09,False,True,False,False,False,False
+355,Uttar Pradesh,RAHUL GANDHI,RAE BARELI,RAE BARELI,147000000.0,False,False,False,False,False,False
+356,Rajasthan,Rahul Kaswan,CHURU,CHURU,147000000.0,False,False,False,False,False,False
+357,Madhya Pradesh,RAHUL SINGH LODHI,DAMOH,DAMOH,163058785.37,False,False,False,False,False,False
+358,Bihar,RAJ BHUSHAN CHOUDHARY,MUZAFFARPUR,MUZAFFARPUR,147000000.0,False,False,False,False,False,False
+359,Rajasthan,RAJ KUMAR ROAT,BANSWARA(ST),BANSWARA,147000000.0,False,True,False,False,False,False
+360,Bihar,RAJA RAM SINGH,KARAKAT,KARAKAT,147000000.0,False,False,False,False,False,False
+361,Maharashtra,RAJABHAU,NASHIK,NASHIK,152878682.11,False,False,False,False,False,False
+362,Himachal Pradesh,RAJEEV BHARDWAJ,KANGRA,KANGRA,179388967.11,False,False,False,False,False,False
+363,Uttar Pradesh,RAJEEV RAI,GHOSI,GHOSI,147000000.0,False,False,False,False,False,False
+364,Bihar,RAJESH RANJAN ALIAS PAPPU YADAV,PURNEA,PURNEA,147000000.0,False,False,False,False,False,False
+365,Bihar,RAJESH VERMA,KHAGARIA,KHAGARIA,147000000.0,False,False,False,False,False,False
+366,Gujarat,Rajeshbhai Naranbhai Chudasama,JUNAGADH,JUNAGADH,147000000.0,False,False,False,False,False,False
+367,Bihar,Rajiv Pratap Rudy,SARAN,SARAN,147000000.0,False,False,False,False,False,False
+368,Bihar,Rajiv Ranjan (Lalan) Singh,MUNGER,MUNGER,147000000.0,False,False,False,False,False,False
+369,Uttar Pradesh,Rajkumar Chahar,FATEHPUR SIKRI,FATEHPUR SIKRI,147000000.0,False,False,False,False,False,False
+370,Uttar Pradesh,Rajnath Singh,LUCKNOW,LUCKNOW,154808797.11,False,False,False,False,False,False
+371,Gujarat,RAJPALSINH MAHENDRASINH JADAV,PANCHMAHAL,PANCHMAHAL,147000000.0,False,False,False,False,False,False
+372,West Bengal,Raju Bista,DARJEELING,DARJEELING,147000000.0,False,False,False,False,False,False
+373,Uttar Pradesh,RAKESH RATHOR,SITAPUR,SITAPUR,147000000.0,False,False,False,False,False,False
+374,Assam,RAKIBUL HUSSAIN,DHUBRI,DHUBRI,147000000.0,False,False,False,False,False,False
+375,Uttar Pradesh,RAM PRASAD CHAUDHARY,BASTI,BASTI,204176957.11,False,False,False,False,False,False
+376,Uttar Pradesh,Ram Shiromani,SHRAWASTI,SHRAWASTI,151746878.11,False,False,False,False,False,False
+377,Telangana,RAMASAHAYAM RAGHURAM REDDY,KHAMMAM,KHAMMAM,147000000.0,False,False,False,False,False,False
+378,Uttar Pradesh,RAMASHANKAR RAJBHAR,SALEMPUR,SALEMPUR,160056927.07,False,False,False,False,False,False
+379,Uttar Pradesh,RAMBHUAL NISHAD,SULTANPUR,SULTANPUR,151231957.11,False,False,False,False,False,False
+380,Uttar Pradesh,RAMESH AWASTHI,KANPUR,KANPUR,147000000.0,False,False,False,False,False,False
+381,Karnataka,Ramesh Chandappa Jigajinagi,BIJAPUR(SC),BIJAPUR,269500000.0,True,False,False,False,False,False
+382,Bihar,Ramprit Mandal,JHANJHARPUR,JHANJHARPUR,147000000.0,False,False,False,False,False,False
+383,Delhi,Ramvir Singh Bidhuri,SOUTH DELHI,SOUTH DELHI,147559100.0,False,False,False,False,False,False
+384,Assam,RANJIT DUTTA,Sonitpur,Sonitpur,147000000.0,False,False,False,False,False,False
+385,Haryana,Rao Inderjit Singh,GURGAON,GURGAON,147000000.0,False,False,False,False,False,False
+386,Rajasthan,Rao Rajendra Singh,JAIPUR RURAL,JAIPUR RURAL,147000000.0,False,False,False,False,False,False
+387,Bihar,Ravi Shankar Prasad,PATNA SAHIB,PATNA SAHIB,147000000.0,False,False,False,False,False,False
+388,Maharashtra,RAVINDRA DATTARAM WAIKAR,MUMBAI NORTH WEST,MUMBAI NORTH WEST,147000000.0,False,False,False,False,False,False
+389,Uttar Pradesh,Ravindra Shyamnarayan Alias Ravi Kishan Shukla,GORAKHPUR,GORAKHPUR,147000000.0,False,False,False,False,False,False
+390,Maharashtra,Ravindra Vasantrao Chavan,NANDED,NANDED,147000000.0,False,False,False,False,True,True
+391,Mizoram,RICHARD VANLALHMANGAIHA,MIZORAM (ST),MIZORAM,147000000.0,False,True,False,False,False,False
+392,Tamil Nadu,ROBERT BRUCE C,TIRUNELVELI,TIRUNELVELI,147475440.11,False,False,False,False,False,False
+393,Madhya Pradesh,Rodmal Nagar,RAJGARH,RAJGARH,147000000.0,False,False,False,False,False,False
+394,Chhattisgarh,ROOP KUMARI CHOUDHARY,MAHASAMUND,MAHASAMUND,153035414.0,False,False,False,False,False,False
+395,Uttar Pradesh,RUCHI VIRA,MORADABAD,MORADABAD,147000000.0,False,False,False,False,False,False
+396,Odisha,RUDRA NARAYAN PANY,DHENKANAL,DHENKANAL,155013957.11,False,False,False,False,False,False
+397,Nagaland,S SUPONGMEREN JAMIR,NAGALAND,NAGALAND,147000000.0,False,False,False,False,False,False
+398,Tamil Nadu,S Venkatesan,MADURAI,MADURAI,147000000.0,False,False,False,False,False,False
+399,Tamil Nadu,S. Jagathrakshakan,ARAKKONAM,ARAKKONAM,180589332.34,False,False,False,False,False,False
+400,Tamil Nadu,SACHITHANANTHAM R,DINDIGUL,DINDIGUL,147000000.0,False,False,False,False,False,False
+401,Karnataka,SAGAR ESHWAR KHANDRE,BIDAR,BIDAR,147000000.0,False,False,False,False,False,False
+402,Meghalaya,SALENG A SANGMA,TURA,TURA,147000000.0,False,False,False,False,False,False
+403,Odisha,SAMBIT PATRA,PURI,PURI,147000000.0,False,False,False,False,False,False
+404,Uttar Pradesh,SANATAN PANDEY,BALLIA,BALLIA,180420041.4,False,False,False,False,False,False
+405,Maharashtra,SANJAY DINA PATIL,MUMBAI NORTH EAST,MUMBAI NORTH EAST,147000000.0,False,False,False,False,False,False
+406,Maharashtra,Sanjay Haribhau Jadhav,PARBHANI,PARBHANI,147000000.0,False,False,False,False,False,False
+407,Bihar,Sanjay Jaiswal,PASCHIM CHAMPARAN,PASCHIM CHAMPARAN,147000000.0,False,False,False,False,False,False
+408,Telangana,Sanjay Kumar Bandi,KARIMNAGAR,KARIMNAGAR,172775317.11,False,False,False,False,False,False
+409,Jharkhand,Sanjay Seth,RANCHI,RANCHI,147064357.11,False,False,False,False,False,False
+410,Maharashtra,Sanjay Uttamrao Deshmukh,YAVATMAL-WASHIM,YAVATMAL-WASHIM,185640423.0,False,False,False,False,False,False
+411,Rajasthan,SANJNA JATAV,BHARATPUR(SC),BHARATPUR,147000000.0,True,False,False,False,False,False
+412,Chhattisgarh,Santosh Pandey,RAJNANDGAON,RAJNANDGAON,147000000.0,False,False,False,False,False,False
+413,Odisha,Saptagiri Sankar Ulaka,KORAPUT(ST),KORAPUT,269500000.0,False,True,False,False,False,False
+414,Punjab,SARABJEET SINGH KHALSA,FARIDKOT(SC),FARIDKOT,150850348.15,True,False,False,False,False,False
+415,Tamil Nadu,Sasikanth Senthil,TIRUVALLUR(SC),TIRUVALLUR,171500000.0,True,False,False,False,False,False
+416,Haryana,SATPAL BRAHAMCHARI,SONEPAT,SONEPAT,147000000.0,False,False,False,False,False,False
+417,West Bengal,Saumitra khan,BISHNUPUR(SC),BISHNUPUR,147000000.0,True,False,False,False,False,False
+418,Madhya Pradesh,SAVITRI THAKUR,DHAR(ST),DHAR,147000000.0,False,True,False,False,False,False
+419,West Bengal,SAYANI GHOSH,JADAVPUR,JADAVPUR,147000000.0,False,False,False,False,False,False
+420,Haryana,SELJA,SIRSA(SC),SIRSA,147000000.0,True,False,False,False,False,False
+421,Tamil Nadu,SELVAGANAPATHI T M,SALEM,SALEM,147000000.0,False,False,False,False,False,False
+422,Tamil Nadu,SELVARAJ V,NAGAPATTINAM(SC),NAGAPATTINAM,147000000.0,True,False,False,False,False,False
+423,Kerala,SHAFI PARAMBIL,VADAKARA,VADAKARA,147000000.0,False,False,False,False,False,False
+424,Bihar,SHAMBHAVI,SAMASTIPUR(SC),SAMASTIPUR,147000000.0,True,False,False,False,False,False
+425,Madhya Pradesh,Shankar Lalwani,INDORE,INDORE,147000000.0,False,False,False,False,False,False
+426,Uttar Pradesh,SHASHANK MANI,DEORIA,DEORIA,147000000.0,False,False,False,False,False,False
+427,West Bengal,Shatrughan Sinha,ASANSOL,ASANSOL,147000000.0,False,False,False,False,False,False
+428,Punjab,SHER SINGH GHUBAYA,FIROZPUR,FIROZPUR,147000000.0,False,False,False,False,False,False
+429,Madhya Pradesh,SHIVMANGAL SINGH TOMAR,MORENA,MORENA,147000000.0,False,False,False,False,False,False
+430,Madhya Pradesh,SHIVRAJ SINGH CHOUHAN,VIDISHA,VIDISHA,147000000.0,False,False,False,False,False,False
+431,Karnataka,SHOBHA KARANDLAJE,BANGALORE NORTH,BANGALORE NORTH,147000000.0,False,False,False,False,False,False
+432,Gujarat,SHOBHANABEN MAHENDRASINH BARAIYA,SABARKANTHA,SABARKANTHA,147000000.0,False,False,False,False,False,False
+433,Karnataka,SHREYAS. M. PATEL,HASSAN,HASSAN,147000000.0,False,False,False,False,False,False
+434,Haryana,Shri  Dharambir Singh,BHIWANI MAHENDRAGARH,BHIWANI MAHENDRAGARH,147000000.0,False,False,False,False,False,False
+435,West Bengal,Shri Abhishek Banerjee,DIAMOND HARBOUR,DIAMOND HARBOUR,147000000.0,False,False,False,False,False,False
+436,Punjab,Shri Amar Singh,FATEHGARH SAHIB(SC),FATEHGARH SAHIB,147000000.0,True,False,False,False,False,False
+437,Gujarat,Shri Amit Shah,GANDHINAGAR,GANDHINAGAR,147000000.0,False,False,False,False,False,False
+438,Madhya Pradesh,Shri Anil Firojiya,UJJAIN(SC),UJJAIN,147000000.0,True,False,False,False,False,False
+439,Rajasthan,Shri Arjun Ram Meghwal,BIKANER(SC),BIKANER,147000000.0,True,False,False,False,False,False
+440,Uttar Pradesh,Shri Arun Kumar Sagar,SHAHJAHANPUR(SC),SHAHJAHANPUR,147000000.0,True,False,False,False,False,False
+441,Karnataka,Shri B Y Raghavendra,SHIMOGA,SHIMOGA,147000000.0,False,False,False,False,False,False
+442,Kerala,Shri Benny Behanan,CHALAKUDY,CHALAKUDY,164674770.11,False,False,False,False,False,False
+443,Odisha,Shri Bhartruhari Mahtab,CUTTACK,CUTTACK,147000000.0,False,False,False,False,False,False
+444,Jharkhand,Shri Chandra Prakash Choudhary,GIRIDIH,GIRIDIH,147000000.0,False,False,False,False,False,False
+445,West Bengal,Shri Deepak (Dev) Adhikari,GHATAL,GHATAL,200747364.0,False,False,False,False,False,False
+446,Punjab,Shri Gurjeet Singh Aujla,AMRITSAR,AMRITSAR,147000000.0,False,False,False,False,False,False
+447,Rajasthan,Shri Hanuman Beniwal,NAGAUR,NAGAUR,147000000.0,False,False,False,False,False,False
+448,Kerala,Shri Hibi Eden,ERNAKULAM,ERNAKULAM,162177260.11,False,False,False,False,False,False
+449,Bihar,Shri Janardan Singh Sigriwal,MAHARAJGANJ_BR,MAHARAJGANJ,147000000.0,False,False,False,False,False,False
+450,Odisha,Shri Jual Oram,SUNDARGARH (ST),SUNDARGARH,173096756.91,False,True,False,False,False,False
+451,Jammu And Kashmir,Shri Jugal Kishore Sharma,JAMMU,JAMMU,147000000.0,False,False,False,False,False,False
+452,West Bengal,Shri Jyotirmay Singh Mahato,PURULIA,PURULIA,147000000.0,False,False,False,False,False,False
+453,Tamil Nadu,Shri Karti P Chidambaram,SIVAGANGA,SIVAGANGA,159049284.11,False,False,False,False,False,False
+454,Kerala,Shri Kumbakudi Sudhakaran,KANNUR,KANNUR,147000000.0,False,False,False,False,False,False
+455,Karnataka,Shri LS Tejasvi Surya,BANGALORE SOUTH,BANGALORE SOUTH,147000000.0,False,False,False,False,False,False
+456,Kerala,Shri M K Raghavan,KOZHIKODE,KOZHIKODE,147000000.0,False,False,False,False,False,False
+457,Uttar Pradesh,Shri Narendra Modi,VARANASI,VARANASI,162070276.11,False,False,False,False,False,False
+458,Kerala,Shri NK Premachandran,KOLLAM,KOLLAM,171477994.11,False,False,False,False,False,False
+459,Rajasthan,Shri PP Chaudhary,PALI,PALI,147000000.0,False,False,False,False,False,False
+460,Kerala,Shri Rajmohan Unnithan,KASARAGOD,KASARAGOD,156754633.11,False,False,False,False,False,False
+461,Assam,Shri Sarbananda Sonowal (18LS),DIBRUGARH,DIBRUGARH,147000000.0,False,False,False,False,False,False
+462,Uttar Pradesh,Shri Satish Kumar Gautam,ALIGARH,ALIGARH,147000000.0,False,False,False,False,False,False
+463,West Bengal,Shri Shantanu Thakur,BANGAON(SC),BANGAON,147000000.0,True,False,False,False,False,False
+464,Madhya Pradesh,Shri Sudheer Gupta,MANDSOUR,MANDSOUR,148988014.83,False,False,False,False,False,False
+465,Kerala,Shri Suresh Kodikunnil,MAVELIKKARA(SC),MAVELIKKARA,172429519.11,True,False,False,False,False,False
+466,Arunachal Pradesh,Shri Tapir Gao,ARUNACHAL EAST,ARUNACHAL EAST,147000000.0,False,False,False,False,False,False
+467,Tamil Nadu,Shri vijayakumar Vasanth,KANNIYAKUMARI,KANNIYAKUMARI,171500000.0,False,False,False,False,False,False
+468,Maharashtra,Shrikant Eknath Shinde,KALYAN,KALYAN,147000000.0,False,False,False,False,False,False
+469,Maharashtra,SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE,SATARA,SATARA,147000000.0,False,False,False,False,False,False
+470,Goa,Shripad Yesso Naik,NORTH GOA,NORTH GOA,147000000.0,False,False,False,False,False,False
+471,Maharashtra,Shrirang Appa Barne,MAVAL,MAVAL,147000000.0,False,False,False,False,False,False
+472,Maharashtra,Shyamkumar,RAMTEK(SC),RAMTEK,147000000.0,True,False,False,False,False,False
+473,Andhra Pradesh,Sivanath Kesineni,VIJAYAWADA,VIJAYAWADA,159864032.49,False,False,False,False,False,False
+474,West Bengal,SK NURUL ISLAM,BASIRHAT,BASIRHAT,49000000.0,False,False,False,False,False,False
+475,Maharashtra,SMITA UDAY WAGH,JALGAON,JALGAON,148107373.11,False,False,False,False,False,False
+476,Uttar Pradesh,Smt Anupriya Patel,MIRZAPUR,MIRZAPUR,147000000.0,False,False,False,False,False,False
+477,Odisha,Smt Aparajita Sarangi,BHUBANESWAR,BHUBANESWAR,147420861.41,False,False,False,False,False,False
+478,Uttar Pradesh,Smt Dimple Yadav,MAINPURI,MAINPURI,192042469.11,False,False,False,False,False,False
+479,Punjab,Smt Harsimrat Kaur Badal,BHATINDA,BHATINDA,159775982.39,False,False,False,False,False,False
+480,Uttar Pradesh,Smt Hema Malini,MATHURA,MATHURA,147000000.0,False,False,False,False,False,False
+481,Madhya Pradesh,Smt Himadri Singh,SHAHDOL (ST),SHAHDOL,150724861.11,False,True,False,False,False,False
+482,Gujarat,Smt Poonamben Hematbhai Maadam,JAMNAGAR,JAMNAGAR,147000000.0,False,False,False,False,False,False
+483,Maharashtra,Smt Raksha Nikhil Khadse,RAVER,RAVER,153112586.11,False,False,False,False,False,False
+484,Tamil Nadu,Smt S Jothimani,KARUR,KARUR,147000000.0,False,False,False,False,False,False
+485,West Bengal,Smt Sajda Ahmed,ULUBERIA,ULUBERIA,147000000.0,False,False,False,False,False,False
+486,Madhya Pradesh,Smt Sandhya Ray,BHIND(SC),BHIND,147000000.0,True,False,False,False,False,False
+487,Odisha,Smt Sangeeta Kumari Singh Deo,BOLANGIR,BOLANGIR,147000000.0,False,False,False,False,False,False
+488,West Bengal,Smt Satabdi Roy (Banerjee),BIRBHUM,BIRBHUM,147000000.0,False,False,False,False,False,False
+489,Maharashtra,Smt Supriya Sadanand Sule,BARAMATI,BARAMATI,147000000.0,False,False,False,False,False,False
+490,Bihar,Smt Veena Devi,VAISHALI,VAISHALI,147000000.0,False,False,False,False,False,False
+491,Andhra Pradesh,Sribharat MathuKumli,VISAKHAPATNAM,VISAKHAPATNAM,164841922.0,False,False,False,False,False,False
+492,Bihar,SUDAMA PRASAD,ARRAH,ARRAH,147000000.0,False,False,False,False,False,False
+493,Tamil Nadu,SUDHA R,MAYILADUTHURAI,MAYILADUTHURAI,147332315.11,False,False,False,False,False,False
+494,Bihar,SUDHAKAR SINGH,BUXAR,BUXAR,185211956.54,False,False,False,False,False,False
+495,West Bengal,Sudip Bandyopadhyay,KOLKATA UTTAR,KOLKATA UTTAR,147000000.0,False,False,False,False,False,False
+496,Odisha,SUKANTA KUMAR PANIGRAHI,KANDHAMAL,KANDHAMAL,190712424.11,False,False,False,False,False,False
+497,Jharkhand,SUKHDEO BHAGAT,LOHARDAGA(ST),LOHARDAGA,171821957.11,False,True,False,False,False,False
+498,Punjab,SUKHJINDER SINGH RANDHAWA,GURDASPUR,GURDASPUR,147000000.0,False,False,False,False,False,False
+499,Karnataka,SUNIL BOSE,CHAMARAJANAGAR(SC),CHAMARAJANAGAR,147000000.0,True,False,False,False,False,False
+500,Maharashtra,Sunil Dattatray Tatkare,RAIGAD,RAIGAD,147000000.0,False,False,False,False,False,False
+501,Bihar,Sunil Kumar,VALMIKI NAGAR,VALMIKI NAGAR,147000000.0,False,False,False,False,False,False
+502,Bihar,SURENDRA PRASAD YADAV,JAHANABAD,JAHANABAD,155325714.0,False,False,False,False,False,False
+503,Kerala,SURESH GOPI,THRISSUR,THRISSUR,147000000.0,False,False,False,False,False,False
+504,Himachal Pradesh,Suresh Kumar Kashyap,SHIMLA (SC),SHIMLA,153563957.11,True,False,False,False,False,False
+505,Telangana,SURESH KUMAR SHETKAR,ZAHIRABAD,ZAHIRABAD,147000000.0,False,False,False,False,False,False
+506,Uttar Pradesh,Swami Sachchidanandhari Sakshi ji Maharaj,UNNAO,UNNAO,147000000.0,False,False,False,False,False,False
+507,Tamil Nadu,T Sumathy (A) Thamizhachi Thangapandian,CHENNAI SOUTH,CHENNAI SOUTH,147000000.0,False,False,False,False,False,False
+508,Andhra Pradesh,TANGELLA UDAY SRINIVAS,KAKINADA,KAKINADA,199417886.76,False,False,False,False,False,False
+509,Uttar Pradesh,TANUJ PUNIA,BARABANKI(SC),BARABANKI,148198170.11,True,False,False,False,False,False
+510,Bihar,TARIQ ANWAR,KATIHAR,KATIHAR,147000000.0,False,False,False,False,False,False
+511,Tamil Nadu,Thalikkottai Rajuthevar Baalu,SRIPERUMBUDUR,SRIPERUMBUDUR,196905535.11,False,False,False,False,False,False
+512,Tamil Nadu,THANGA TAMILSELVAN,THENI,THENI,167755939.81,False,False,False,False,False,False
+513,Tamil Nadu,THARANIVENTHAN M S,ARANI,ARANI,168337124.35,False,False,False,False,False,False
+514,Tamil Nadu,Thiru Dayanidhi Maran,CHENNAI CENTRAL,CHENNAI CENTRAL,147000000.0,False,False,False,False,False,False
+515,Tamil Nadu,Thirumaa Valavan Thol,CHIDAMBARAM(SC),CHIDAMBARAM,147000000.0,True,False,False,False,False,False
+516,Chhattisgarh,TOKHAN SAHU,BILASPUR,BILASPUR,147000000.0,False,False,False,False,False,False
+517,Uttarakhand,TRIVENDRA SINGH RAWAT,HARDWAR,HARDWAR,147000000.0,False,False,False,False,False,False
+518,Uttar Pradesh,UJJWAL RAMAN SINGH,ALLAHABAD,ALLAHABAD,147000000.0,False,False,False,False,False,False
+519,Rajasthan,UMMEDA RAM BENIWAL,BARMER,BARMER,147000000.0,False,False,False,False,False,False
+520,Uttar Pradesh,UTKARSH VERMA MADHUR,KHERI,KHERI,147000000.0,False,False,False,False,False,False
+521,Tamil Nadu,V S Matheswaran,NAMAKKAL,NAMAKKAL,162539930.11,False,False,False,False,False,False
+522,Karnataka,V. SOMANNA,TUMKUR,TUMKUR,147000000.0,False,False,False,False,False,False
+523,Puducherry,Vaithilingam Ve,Puducherry,Puducherry,209368972.11,False,False,False,False,False,False
+524,Telangana,VAMSI KRISHNA GADDAM,PEDDAPALLE,PEDDAPALLE,148451721.11,False,False,False,False,False,False
+525,Haryana,VARUN CHAUDHRY,AMBALA (SC),AMBALA,255454264.0,True,False,False,False,False,False
+526,Kerala,Vellalath Kochukrishnan Nair Sreekandan,PALAKKAD,PALAKKAD,167807990.11,False,False,False,False,False,False
+527,Chhattisgarh,Vijay Baghel,DURG,DURG,147000000.0,False,False,False,False,False,False
+528,Uttar Pradesh,Vijay Kumar Dubey,KUSHI NAGAR,KUSHI NAGAR,148900000.0,False,False,False,False,False,False
+529,Jharkhand,Vijay Kumar Hansdak,RAJMAHAL(ST),RAJMAHAL,147223957.11,False,True,False,False,False,False
+530,Bihar,VIJAYLAKSHMI DEVI,SIWAN,SIWAN,147000000.0,False,False,False,False,False,False
+531,Gujarat,Vinod Chavda,KACHCHH(SC),KACHCHH,147000000.0,True,False,False,False,False,False
+532,Uttar Pradesh,VINOD KUMAR BIND,BHADOHI,BHADOHI,147000000.0,False,False,False,False,False,False
+533,Madhya Pradesh,Virendra Kumar,TIKAMGARH(SC),TIKAMGARH,147000000.0,True,False,False,False,False,False
+534,Uttar Pradesh,VIRENDRA SINGH,CHANDAULI,CHANDAULI,147000000.0,False,False,False,False,False,False
+535,Maharashtra,VISHAL,SANGLI,SANGLI,147000000.0,False,False,False,False,False,False
+536,Jharkhand,Vishnu Dayal Ram,PALAMU(SC),PALAMU,158176083.11,True,False,False,False,False,False
+537,Madhya Pradesh,Vishnu Dutt Sharma,KHAJURAHO,KHAJURAHO,147000000.0,False,False,False,False,False,False
+538,Karnataka,VISHWESHWAR HEGDE KAGERI,UTTARA KANNADA,UTTARA KANNADA,147000000.0,False,False,False,False,False,False
+539,Bihar,VIVEK THAKUR,NAWADA,NAWADA,147000000.0,False,False,False,False,False,False
+540,Andhra Pradesh,Y S Avinash Reddy,KADAPA,KADAPA,156430260.11,False,False,False,False,False,False
+541,Karnataka,YADUVEER KRISHNADATTA CHAMARAJA WADIYAR,MYSORE,MYSORE,147000000.0,False,False,False,False,False,False
+542,Delhi,Yogendra Chandoliya,NORTH WEST DELHI(SC),NORTH WEST DELHI,147876307.0,True,False,False,False,False,False
+543,Uttar Pradesh,ZIA UR REHMAN,SAMBHAL,SAMBHAL,147000000.0,False,False,False,False,False,False
